@@ -1,0 +1,165 @@
+<html>
+	<head>
+		<link media="all" type="text/css" href="960.css" rel="stylesheet">
+		<style>
+			* { margin:0; padding:0; }
+			
+			ol, ul {
+				list-style-image:none;
+				list-style-position:outside;
+				list-style-type:none;
+			}
+			
+			body {
+				background: #5b0000 url('Background.jpg') repeat-x;
+				height:100%;				
+			}
+			
+			#Container {
+				min-height:100%;
+				position:relative;
+			}
+		
+			#Header {			
+				height:80px;
+				width:960px;
+				margin: 0 auto;
+			}
+		
+			#Main {
+				padding-top:60px;
+				padding-bottom:53px;
+				min-height: 100%;
+				height: auto !important;
+				height: 100%;
+				margin: 0 auto -53px;
+			}
+		
+			#Footer {
+				height:53px;
+				width:100%;
+				background: #000 url('footer.png') repeat-x;
+				position:absolute;
+				bottom:0;
+			}
+			
+			.centered {
+				margin: 0 auto;
+			}
+			
+			#Content_Top {
+				overflow:hidden;
+				width:942px;
+				height:16px;
+				background: transparent url('Main_Top.png') no-repeat center top;
+			}
+			
+			#Content {
+				width:940px;
+				background: #b2b2b2 url('Main.jpg') repeat-x center top;
+				height:250px;
+				border-right: solid 1px black;
+				border-left: solid 1px black;
+			}
+			
+			#Content_Bottom {
+				width:942px;
+				height: 16px;
+				background: transparent url('Main_Bottom.png') no-repeat center bottom;
+			}			
+			
+			#Logo {
+				position:absolute;
+				background: transparent url('Logo.png') no-repeat;
+				height:110px;
+				width:118px;
+			}
+			
+			#Grid_Wrapper {
+				width:960px;
+			}
+			
+			#Nav {
+				float:right;
+				display:block;
+				overflow:hidden;
+				margin: 40px 20px 0 0;
+			}
+			
+			#Nav li {
+				float:left;
+				margin-left:5px;
+			}
+			
+			#Nav li a {
+				background-position: left top;
+				background-repeat: no-repeat;
+				display: block;
+				height:30px;
+				text-indent: -99999px;
+			}
+			
+			#Nav li.home a {
+				background-image: url('Home.png');
+				width:60px;
+			}
+			
+			#Nav li.products a {
+				background-image: url('Products.png');
+				width:75px;
+			}
+			
+			#Nav li.work a {
+				background-image: url('Work.png');
+				width:80px;
+			}
+			
+			#Nav li.contact a {
+				background-image: url('Contact.png');
+				width:69px;
+			}
+			
+			#Nav li a:hover {
+				background-position: left bottom;
+			}
+		</style>
+	</head>
+
+	<body>
+		<div id="Container">
+			<div id="Header">
+					<div id="Logo"></div>
+					<ul id="Nav">
+						<li class="Home">
+							<a href="#">Home</a>
+						</li>
+						<li class="Products">
+							<a href="#">Products</a>
+						</li>
+						<li class="Work">
+							<a href="#">Work</a>
+						</li>
+						<li class="Contact">
+							<a href="#">Contact</a>
+						</li>
+					</ul>
+			</div>
+			<div id="Main">
+				<div id="Content_Wrapper">
+					<div id="Content_Top" class="centered"></div>
+					<div id="Content" class="centered"></div>
+					<div id="Content_Bottom" class="centered"></div>
+				</div>
+				<div id="Grid_Wrapper" class="centered">
+					<div class="container_12">
+						<div class="grid_4"><p>300px</p></div>
+						<div class="grid_4"><p>300px</p></div>
+						<div class="grid_4"><p>300px</p></div>
+						<div class="clear"></div>
+					</div>
+				</div>
+			</div>
+			<div id="Footer"></div>
+			</div>
+	</body>
+</html>

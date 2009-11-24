@@ -1,0 +1,78 @@
+<%@ Master Language="C#" Inherits="System.Web.Mvc.ViewMasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title><asp:ContentPlaceHolder ID="TitleContent" runat="server" /></title>
+    <link href="../../Content/Styles/Site.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <div id="page">
+        <div id="header">
+            <h1>
+                <a href="#" class="logo">Trinity Brick</a>
+            </h1>
+            <ul id="nav">
+                <li class="home">
+				    <a href="#" class="<%= Html.ActiveLink("Home") %>">Home</a>
+			    </li>
+			    <li class="products">
+				    <a href="#">Products</a>
+			    </li>
+			    <li class="work">
+				    <a href="#">Work</a>
+			    </li>
+			    <li class="contact">
+				    <a href="#">Contact</a>
+			    </li>
+            </ul>
+        </div>
+        <div id="main">
+            <div id="primary_content">
+                <div id="content_top"></div>
+                <div id="content">
+                    <asp:ContentPlaceHolder ID="_primaryContent" runat="server" />
+                </div>
+                <div id="content_bottom"></div>
+            </div>
+            <div id="secondary_content">
+                <asp:ContentPlaceHolder ID="_secondaryContent" runat="server" />
+            </div>
+        </div>
+        <div id="footer"></div>
+    </div>
+</body>
+
+
+
+<%--<body>
+    <div class="page">
+
+        <div id="header">
+            <div id="title">
+                <h1>My MVC Application</h1>
+            </div>
+              
+            <div id="logindisplay">
+                <% Html.RenderPartial("LogOnUserControl"); %>
+            </div> 
+            
+            <div id="menucontainer">
+            
+                <ul id="menu">              
+                    <li><%= Html.ActionLink("Home", "Index", "Home")%></li>
+                    <li><%= Html.ActionLink("About", "About", "Home")%></li>
+                </ul>
+            
+            </div>
+        </div>
+
+        <div id="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+
+            <div id="footer">
+            </div>
+        </div>
+    </div>
+</body>--%>
+</html>

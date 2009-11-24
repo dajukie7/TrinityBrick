@@ -1,0 +1,138 @@
+﻿/*--Reset--*/
+
+* { margin:0; padding:0; }
+			
+ol, ul {
+	list-style-image:none;
+	list-style-position:outside;
+	list-style-type:none;
+}
+
+/*--End Reset--*/
+
+body {
+	background: #5b0000 url('../Images/Background.jpg') repeat-x;
+	height:100%;				
+}
+
+#page {
+	min-height:100%;
+}
+
+#footer {
+	height:53px;
+	width:100%;
+	background: #000 url('../Images/footer.png') repeat-x;
+	position:absolute;
+	bottom:0;
+}
+
+
+/*--Main--*/
+
+#main {
+	padding-top:60px;
+	padding-bottom:53px;
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	margin: 0 auto -53px;
+	width:940px;
+}
+	/*--Primary Content--*/
+
+	#main #content_top {
+		overflow:hidden;
+		width:942px;
+		height:16px;
+		background: transparent url('../Images/Main_Top.png') no-repeat center top;
+	}
+
+	#main #content {
+		width:940px;
+		background: #b2b2b2 url('../Images/Main.jpg') repeat-x center top;
+		height:250px;
+		border-right: solid 1px black;
+		border-left: solid 1px black;
+	}
+
+	#main #content_bottom {
+		width:942px;
+		height: 16px;
+		background: transparent url('../Images/Main_Bottom.png') no-repeat center bottom;
+	}	
+	
+	/*--End Primary Content--*/
+
+/*--End Main--*/	
+
+/*--Header--*/
+
+#header {			
+	height: 80px;
+	width: 940px;
+	margin: 0 auto;
+}	
+
+	/*--Logo--*/
+	
+	#header h1 a.logo
+	{
+		position:absolute;
+		background: transparent url('../Images/Logo.png') no-repeat;
+		height:110px;
+		width:118px;
+		text-indent: -99999px;
+	}
+	
+	/*--End Logo--*/
+	
+	/*--Navigation--*/
+
+	#header #nav {
+		float:right;
+		display:block;
+		overflow:hidden;
+		margin: 40px 20px 0 0;
+	}
+
+	#header #nav li {
+		float:left;
+		margin-left:5px;
+	}
+
+	#header #nav li a {
+		background-position: left top;
+		background-repeat: no-repeat;
+		display: block;
+		height:30px;
+		text-indent: -99999px;
+	}
+
+	#header #nav li.home a {
+		background-image: url('../Images/Home.png');
+		width:60px;
+	}
+
+	#header #nav li.products a {
+		background-image: url('../Images/Products.png');
+		width:75px;
+	}
+
+	#header #nav li.work a {
+		background-image: url('../Images/Work.png');
+		width:80px;
+	}
+
+	#header #nav li.contact a {
+		background-image: url('../Images/Contact.png');
+		width:69px;
+	}
+
+	#header #nav li a:hover, #header #nav li a.active {
+		background-position: left bottom;
+	}
+
+	/*--End Navigation--*/
+	
+/*--End Header--*/

@@ -5,6 +5,7 @@
 <head runat="server">
     <title><asp:ContentPlaceHolder ID="TitleContent" runat="server" /></title>
     <link href="../../Content/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <link href="../../Content/Styles/960.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
     <div id="page">

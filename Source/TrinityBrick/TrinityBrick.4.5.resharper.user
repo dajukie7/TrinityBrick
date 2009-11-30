@@ -10,8 +10,46 @@
     <NAntPath value="" />
   </NAntValidationSettings>
   <RecentFiles>
-    <RecentFiles />
-    <RecentEdits />
+    <RecentFiles>
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Extensions/f:HtmlHelpers.cs" caret="146" fromTop="6" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/f:Web.config" caret="6887" fromTop="25" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Controllers/f:HomeController.cs" caret="367" fromTop="14" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Shared/f:Site.Master" caret="496" fromTop="0" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Home/f:Index.aspx" caret="2420" fromTop="45" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="1658" fromTop="48" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Home/f:Index.aspx" caret="820" fromTop="17" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Home/f:Index.aspx" caret="3254" fromTop="30" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Home/f:Index.aspx" caret="3254" fromTop="35" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="3584" fromTop="43" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="3334" fromTop="39" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="3374" fromTop="38" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="3451" fromTop="32" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="3180" fromTop="10" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="4016" fromTop="47" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="3873" fromTop="38" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="4105" fromTop="28" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="4239" fromTop="31" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="4335" fromTop="38" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="4441" fromTop="35" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Home/f:Index.aspx" caret="3144" fromTop="43" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Home/f:Index.aspx" caret="3024" fromTop="41" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="4775" fromTop="50" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="4771" fromTop="50" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="243" fromTop="14" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="4891" fromTop="37" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="3124" fromTop="20" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="362" fromTop="20" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="4650" fromTop="27" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="4646" fromTop="25" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Home/f:Index.aspx" caret="416" fromTop="9" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Home/f:Index.aspx" caret="1039" fromTop="19" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Home/f:Index.aspx" caret="1903" fromTop="32" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Home/f:Index.aspx" caret="2420" fromTop="45" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="1658" fromTop="48" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="1559" fromTop="44" />
+    </RecentEdits>
   </RecentFiles>
   <UnitTestRunner>
     <Providers />
@@ -19,4 +57,14 @@
   <UnitTestRunnerMSTest>
     <UseTestRunConfigFromMetadataFile>False</UseTestRunConfigFromMetadataFile>
   </UnitTestRunnerMSTest>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="View" priority="0" />
+      <Item value="ViewData" priority="0" />
+      <Item value="Html" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.HtmlHelper">
+      <Item value="ActiveLink" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
 </Configuration>

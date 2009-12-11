@@ -45,7 +45,6 @@ body {
 	#main #content {
 		width:900px;
 		background: #b2b2b2 url('../Images/Main.jpg') repeat-x center top;
-		height:250px;
 		border-right: solid 1px black;
 		border-left: solid 1px black;
 		padding: 15px 20px 0 20px;

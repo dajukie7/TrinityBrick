@@ -11,8 +11,10 @@ ol, ul {
 /*--End Reset--*/
 
 body {
-	background: #5b0000 url('../Images/Background2.jpg') repeat-x;			
+	background: #24343d url('../Images/Background_blue.png') repeat-x;			
 }
+
+.hidden { display:none; }
 
 #footer {
 	height:53px;
@@ -93,7 +95,62 @@ body {
 			color: #800000;
 			font-style: italic;
 		}
-
+		
+		#slideshow 
+		{
+		    height:440px;
+		    width:460px;
+		    background: transparent url('../Images/slideshowHolder.png') no-repeat;
+		    float:left;
+		}
+		
+		#slideshow .image
+		{
+		    height:300px;
+		    width:400px;
+		    overflow:hidden;
+		    margin: 0 auto;
+		    padding: 30px 0 0 0;
+		}
+		
+		#slideshow .controls
+		{
+		    margin:0 auto;
+		    width:399px;
+		}
+		
+		    .controls .control
+            {
+                height: 60px;
+                width: 130px;
+                float: left;
+                background-color: #3366FF;
+                color: #003399;
+                margin-right:3px;
+                margin-top:20px;
+            }
+            
+            .controls .active 
+            {
+                background-color: #fff;
+            }
+            
+        #info
+        {
+            float:left;
+        }
+            
+        #samples
+        {
+            margin-bottom:20px;
+        }
+            
+        #samples .sample
+        {
+            width:130px;
+            text-align:center;
+            float:left;
+        }
 
 	#main #content_bottom {
 		width:942px;
@@ -108,7 +165,7 @@ body {
 /*--Header--*/
 
 #header {			
-	height: 80px;
+	height: 100px;
 	width: 940px;
 	margin: 0 auto;
 }	
@@ -118,10 +175,11 @@ body {
 	#header h1 a.logo
 	{
 		position:absolute;
-		background: transparent url('../Images/Logo.png') no-repeat;
-		height:110px;
-		width:118px;
+		background: transparent url('../Images/Logo_Bright.png') no-repeat;
+		height:91px;
+		width:186px;
 		text-indent: -99999px;
+		margin-top:10px;
 	}
 	
 	/*--End Logo--*/
@@ -132,7 +190,7 @@ body {
 		float:right;
 		display:block;
 		overflow:hidden;
-		margin: 40px 20px 0 0;
+		margin: 65px 20px 0 0;
 	}
 
 	#header #nav li {
@@ -297,3 +355,33 @@ body {
 	/*--End Contact--*/
 	
 /*--Secondary--*/	
+
+/*--Portfolio--*/
+
+#clients
+{
+    margin-top:10px;
+}
+
+#clients .client
+{
+    border-color: #DFDFDF;
+    text-align: center;
+    float: left;
+    margin: 0 20px 20px 0;
+    background-color: #E0E0E0;
+    padding: 10px;
+    border:solid 1px #cfcfcf
+}
+
+#clients .client img
+{
+    border: 3px solid #CCCCCC;
+    background-color: #fff;
+}
+
+#clients h3
+{
+    font-size:22px;
+    color: #666666;
+}

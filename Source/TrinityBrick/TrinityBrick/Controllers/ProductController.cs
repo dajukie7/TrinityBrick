@@ -45,21 +45,52 @@ namespace TrinityBrick.Controllers
             ProductViewModel productViewModel = new ProductViewModel();
             productViewModel.Products = new List<ProductEntity>();
 
-            var product1 = new ProductEntity();
-            product1.Id = 1;
-            product1.Name = "AntiqueStratford";
-            product1.Description = "Brick 1 Sample Description";
-            product1.SampleImagePath = "Samples.png";
-            product1.Images = new List<string> { "AntiqueStratford_1.jpg", "AntiqueStratford_2.jpg", "AntiqueStratford_3.jpg" };
+            for (int i = 1; i < 8; i++)
+            {
+                var product = new ProductEntity();
+                product.Id = i;
+                if(i%2 == 0)
+                {
+                    product.Name = "Antique Stratford";
+                    product.Description = "Antique Stratford Description";
+                    product.SampleImagePath = "brickSample.png";
+                    product.Images = new List<string>
+                                         {"AntiqueStratford_1.jpg", "AntiqueStratford_2.jpg", "AntiqueStratford_3.jpg"};
+                }
+                else
+                {
+                    product.Name = "Cambridge";
+                    product.Description = "Cambridge Description";
+                    product.SampleImagePath = "brickSample.png";
+                    product.Images = new List<string> { "Cambridge_1.jpg", "Cambridge_2.jpg", "Cambridge_3.jpg" };
+                }
 
-            productViewModel.Products.Add(product1);
+                productViewModel.Products.Add(product);
+                
+            }
 
             return productViewModel;
         }
 
         public ProductEntity FindBrick(int id)
         {
-            return new ProductEntity { Id = id, Description = "description", Name = "Cambridge", Images = new List<string> { "Cambridge_1.jpg", "Cambridge_2.jpg", "Cambridge_3.jpg" } };
+            return id%2 == 0
+                       ? new ProductEntity
+                             {
+                                 Id = id,
+                                 Description = "description",
+                                 Name = "Antique Stratford",
+                                 Images =
+                                     new List<string>
+                                         {"AntiqueStratford_1.jpg", "AntiqueStratford_2.jpg", "AntiqueStratford_3.jpg"}
+                             }
+                       : new ProductEntity
+                             {
+                                 Id = id,
+                                 Description = "description",
+                                 Name = "Cambridge",
+                                 Images = new List<string> {"Cambridge_1.jpg", "Cambridge_2.jpg", "Cambridge_3.jpg"}
+                             };
         }
     }
 

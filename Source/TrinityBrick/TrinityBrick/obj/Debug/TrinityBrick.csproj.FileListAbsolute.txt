@@ -3,3 +3,13 @@ C:\Sites\TrinityBrick\Source\TrinityBrick\TrinityBrick\bin\TrinityBrick.pdb
 C:\Sites\TrinityBrick\Source\TrinityBrick\TrinityBrick\obj\Debug\ResolveAssemblyReference.cache
 C:\Sites\TrinityBrick\Source\TrinityBrick\TrinityBrick\obj\Debug\TrinityBrick.dll
 C:\Sites\TrinityBrick\Source\TrinityBrick\TrinityBrick\obj\Debug\TrinityBrick.pdb
+Y:\My Documents\Projects\TrinityBrick\Source\TrinityBrick\TrinityBrick\bin\TrinityBrick.dll
+Y:\My Documents\Projects\TrinityBrick\Source\TrinityBrick\TrinityBrick\bin\TrinityBrick.pdb
+Y:\My Documents\Projects\TrinityBrick\Source\TrinityBrick\TrinityBrick\obj\Debug\ResolveAssemblyReference.cache
+Y:\My Documents\Projects\TrinityBrick\Source\TrinityBrick\TrinityBrick\obj\Debug\TrinityBrick.dll
+Y:\My Documents\Projects\TrinityBrick\Source\TrinityBrick\TrinityBrick\obj\Debug\TrinityBrick.pdb
+C:\Projects\TrinityBrick\Source\TrinityBrick\TrinityBrick\bin\TrinityBrick.dll
+C:\Projects\TrinityBrick\Source\TrinityBrick\TrinityBrick\bin\TrinityBrick.pdb
+C:\Projects\TrinityBrick\Source\TrinityBrick\TrinityBrick\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\TrinityBrick\Source\TrinityBrick\TrinityBrick\obj\Debug\TrinityBrick.dll
+C:\Projects\TrinityBrick\Source\TrinityBrick\TrinityBrick\obj\Debug\TrinityBrick.pdb

@@ -80,6 +80,7 @@
     <Content Include="Global.asax" />
     <Content Include="Scripts\jquery.samples.js" />
     <Content Include="Views\Contact\Index.aspx" />
+    <Content Include="Views\Contact\Success.aspx" />
     <Content Include="Views\Portfolio\Index.aspx" />
     <Content Include="Views\Product\Product.aspx" />
     <Content Include="Views\Product\Slideshow.ascx" />

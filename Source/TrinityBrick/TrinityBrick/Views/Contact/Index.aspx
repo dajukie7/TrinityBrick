@@ -6,15 +6,37 @@
 
 <asp:Content ID="Content2" ContentPlaceHolderID="_primaryContent" runat="server">
 
-    <h2>Contact Us</h2>
+    <h2>Contact Us</h2>    
     
-    <% using (Html.BeginForm()) { %>
-        <p>
-            <label for="name">Name</label>
+    <div id="contact_options">
+        <h3 class="by_email">Email</h3>
+        <h3 class="by_phone">Phone</h3>
+    </div>
+    
+    <div class="clear"></div>
+    
+    <form id="contact_form" action="/Contact" method="post">
+        <div class="section">
+            <label for="name">Name:</label>
             <input type="text" id="name" name="name" />
-        </p>        
-        <input type="submit" value="Submit" />
-    <% } %>
+            <label for="email">Email:</label>
+            <input type="text" id="email" name="email" />
+            <label for="phone">Phone:</label>
+            <input type="text" id="phone" name="phone" />
+        </div>   
+        <div class="section">
+            <label for="comments">Comments:</label>
+            <textarea rows="7" cols="18" id="comments" name="comments"></textarea>
+        </div>  
+        <div class="clear"></div>   
+        <input type="submit" value="Submit"/>
+    </form>
+    
+    <div class="divider">
+    
+    </div>
+    
+    <div class="clear"></div>
 
 </asp:Content>
 

@@ -52,7 +52,7 @@ namespace TrinityBrick.Controllers
                 if(i%2 == 0)
                 {
                     product.Name = "Antique Stratford";
-                    product.Description = "Antique Stratford Description";
+                    product.Description = "A look of modern elegance; Antique Stratford has a deep maroon body with a soft splash of white accent.";
                     product.SampleImagePath = "brickSample.png";
                     product.Images = new List<string>
                                          {"AntiqueStratford_1.jpg", "AntiqueStratford_2.jpg", "AntiqueStratford_3.jpg"};
@@ -60,7 +60,7 @@ namespace TrinityBrick.Controllers
                 else
                 {
                     product.Name = "Cambridge";
-                    product.Description = "Cambridge Description";
+                    product.Description = "A look of modern elegance; Cambridge has a deep maroon body with a soft splash of white accent.";
                     product.SampleImagePath = "brickSample.png";
                     product.Images = new List<string> { "Cambridge_1.jpg", "Cambridge_2.jpg", "Cambridge_3.jpg" };
                 }
@@ -78,7 +78,7 @@ namespace TrinityBrick.Controllers
                        ? new ProductEntity
                              {
                                  Id = id,
-                                 Description = "description",
+                                 Description = "A look of modern elegance; Antique Stratford has a deep maroon body with a soft splash of white accent.",
                                  Name = "Antique Stratford",
                                  Images =
                                      new List<string>
@@ -87,7 +87,7 @@ namespace TrinityBrick.Controllers
                        : new ProductEntity
                              {
                                  Id = id,
-                                 Description = "description",
+                                 Description = "A look of modern elegance; Antique Stratford has a deep maroon body with a soft splash of white accent.",
                                  Name = "Cambridge",
                                  Images = new List<string> {"Cambridge_1.jpg", "Cambridge_2.jpg", "Cambridge_3.jpg"}
                              };

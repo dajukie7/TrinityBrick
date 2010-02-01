@@ -13,43 +13,47 @@
   <RecentFiles>
     <RecentFiles>
       <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Product/f:Slideshow.ascx" caret="106" fromTop="1" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Shared/f:Site.Master" caret="620" fromTop="0" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Controllers/f:ProductController.cs" caret="3266" fromTop="72" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="2792" fromTop="11" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Product/f:Product.aspx" caret="1771" fromTop="33" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Scripts/f:jquery.samples.js" caret="2531" fromTop="22" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Controllers/f:PortfolioController.cs" caret="311" fromTop="14" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Portfolio/f:Index.aspx" caret="1043" fromTop="21" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Shared/f:Site.Master" caret="1296" fromTop="9" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Controllers/f:ProductController.cs" caret="2036" fromTop="17" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Scripts/f:jquery.samples.js" caret="630" fromTop="3" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Product/f:Product.aspx" caret="1076" fromTop="7" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="8761" fromTop="15" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Contact/f:Index.aspx" caret="0" fromTop="0" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Controllers/f:ContactController.cs" caret="1010" fromTop="13" />
     </RecentFiles>
     <RecentEdits>
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Shared/f:Site.Master" caret="620" fromTop="9" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Product/f:Product.aspx" caret="3038" fromTop="22" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="5661" fromTop="14" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Scripts/f:jquery.samples.js" caret="0" fromTop="20" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Scripts/f:jquery.samples.js" caret="0" fromTop="14" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Scripts/f:jquery.samples.js" caret="0" fromTop="15" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Scripts/f:jquery.samples.js" caret="0" fromTop="18" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Scripts/f:jquery.samples.js" caret="0" fromTop="7" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Scripts/f:jquery.samples.js" caret="0" fromTop="17" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Scripts/f:jquery.samples.js" caret="0" fromTop="20" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Scripts/f:jquery.samples.js" caret="0" fromTop="20" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Scripts/f:jquery.samples.js" caret="0" fromTop="20" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Scripts/f:jquery.samples.js" caret="0" fromTop="20" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="2469" fromTop="19" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Product/f:Product.aspx" caret="2871" fromTop="13" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Product/f:Product.aspx" caret="2408" fromTop="9" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Product/f:Product.aspx" caret="2099" fromTop="12" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Product/f:Product.aspx" caret="1771" fromTop="6" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="271" fromTop="16" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="2792" fromTop="11" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Scripts/f:jquery.samples.js" caret="0" fromTop="20" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Scripts/f:jquery.samples.js" caret="0" fromTop="20" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Scripts/f:jquery.samples.js" caret="0" fromTop="20" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Scripts/f:jquery.samples.js" caret="0" fromTop="20" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Scripts/f:jquery.samples.js" caret="0" fromTop="8" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Product/f:Product.aspx" caret="0" fromTop="33" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Scripts/f:jquery.samples.js" caret="0" fromTop="20" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Scripts/f:jquery.samples.js" caret="0" fromTop="20" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Scripts/f:jquery.samples.js" caret="0" fromTop="20" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Scripts/f:jquery.samples.js" caret="2531" fromTop="19" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Scripts/f:jquery.samples.js" caret="2622" fromTop="21" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Controllers/f:ProductController.cs" caret="2804" fromTop="8" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Controllers/f:ProductController.cs" caret="3391" fromTop="17" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Controllers/f:ProductController.cs" caret="1601" fromTop="9" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="3186" fromTop="18" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="3408" fromTop="20" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="3919" fromTop="22" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Controllers/f:ProductController.cs" caret="2036" fromTop="17" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Scripts/f:jquery.samples.js" caret="1636" fromTop="21" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Scripts/f:jquery.samples.js" caret="2274" fromTop="23" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Scripts/f:jquery.samples.js" caret="3307" fromTop="28" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Product/f:Product.aspx" caret="1338" fromTop="13" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Scripts/f:jquery.samples.js" caret="3103" fromTop="24" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Scripts/f:jquery.samples.js" caret="731" fromTop="5" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Scripts/f:jquery.samples.js" caret="588" fromTop="3" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Product/f:Product.aspx" caret="1579" fromTop="18" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="3772" fromTop="19" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="3723" fromTop="17" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="3549" fromTop="9" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Contact/f:Index.aspx" caret="1044" fromTop="25" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Contact/f:Index.aspx" caret="673" fromTop="14" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Contact/f:Index.aspx" caret="674" fromTop="14" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Contact/f:Index.aspx" caret="836" fromTop="18" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="8689" fromTop="12" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="8799" fromTop="15" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="8941" fromTop="24" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Contact/f:Index.aspx" caret="681" fromTop="8" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="9056" fromTop="11" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="8761" fromTop="15" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Contact/f:Index.aspx" caret="875" fromTop="13" />
     </RecentEdits>
   </RecentFiles>
   <UnitTestRunner>
@@ -104,6 +108,7 @@
       <Item value="Controller" priority="0" />
       <Item value="Convert" priority="0" />
       <Item value="image" priority="0" />
+      <Item value="b" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Web.Mvc.HtmlHelper">
       <Item value="ActiveLink" priority="0" />

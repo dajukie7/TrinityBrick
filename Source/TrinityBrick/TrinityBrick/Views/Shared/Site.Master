@@ -31,7 +31,7 @@
             </ul>
         </div>
         <div id="main">
-            <div id="sub_navigatin">
+            <div id="sub_navigation">
                 <asp:ContentPlaceHolder ID="_subNavigation" runat="server" />
             </div>
             <div id="primary_content">

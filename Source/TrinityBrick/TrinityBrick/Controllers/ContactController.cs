@@ -32,7 +32,12 @@ namespace TrinityBrick.Controllers
 
             sendMail("dajukie7@gmail.com", "dajukie7@gmail.com", "", "", "Test Email", "This was a test");
 
-            return View();
+            return Success();
+        }
+
+        public ActionResult Success()
+        {
+            return View("Success");
         }
 
 

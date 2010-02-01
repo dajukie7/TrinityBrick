@@ -13,15 +13,25 @@
                 <img id="slideshowImage" src="../../Content/Images/<%= Model.Products[0].Images[0] %>" alt="<%= Model.Products[0].Name %>" />
             </div>
             <div class="controls">
-                <div class="control" id="image1" path="<%= Model.Products[0].Images[0] %>">Image 1</div>
-                <div class="control" id="image2" path="<%= Model.Products[0].Images[1] %>">Image 2</div>
-                <div class="control" id="image3" path="<%= Model.Products[0].Images[2] %>">Image 3</div>
+                <div class="control active" id="image1" path="<%= Model.Products[0].Images[0] %>"><div>1</div></div>
+                <div class="control inactive" id="image2" path="<%= Model.Products[0].Images[1] %>"><div>2</div></div>
+                <div class="control inactive" id="image3" path="<%= Model.Products[0].Images[2] %>"><div>3</div></div>
                 <div class="clear"></div>
             </div>
         </div>
         <div id="info">
             <h1 id="productName"><%= Model.Products[0].Name %></h1>
             <p id="productDescription"><%= Model.Products[0].Description %></p>
+            <div class="options">
+                <div class="option email">Would you like to know more about Cambridge?</div>
+                <div class="action email">Ask Us</div>
+                <div class="clear"></div>
+            </div>
+            <div class="options">
+                <div class="option map">Would you like to find houses near you with Cambridge?</div>
+                <div class="action map">Map It</div>
+                <div class="clear"></div>
+            </div>
         </div>
         <div class="clear"></div>
     </div>
@@ -69,6 +79,7 @@
         }
 
         $(document).ready(function() {
+            $('.sample:first').addClass('selected');
             $('.sample').samples();
         });
 

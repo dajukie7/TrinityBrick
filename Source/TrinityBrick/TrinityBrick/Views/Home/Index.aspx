@@ -9,8 +9,10 @@
     <hr class="rule" />
     <div class="clear"></div>
     <h2>
-        At <span class="name">Trinity Brick</span> our mission statement is 
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque elit sapien, porttitor vitae convallis quis, tincidunt eu risus. Nullam a tellus sapien, in ultrices nunc. 
+        At <span class="name">Trinity Brick</span>, we guarantee to always offer the
+        best <span class="brick">brick</span> that <span class="money">money</span> can buy. We strive to deliver
+        "top notch" <span class="brick">brick</span>, with <u>crafstmanship</u> that will
+        stand the test of time and never fall short of expectations.
     </h2>
     <a href="#" class="samples"><img alt="See Our Brick Samples" src="../../Content/Images/samples.png"/></a>
     <img alt="Trinity Brick" src="../../Content/Images/brick.png" class="brick" />

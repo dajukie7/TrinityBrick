@@ -24,7 +24,7 @@
 
         return this.each(function() {
             $(this).click(function() {
-                LoadProduct(this);                                
+                LoadProduct(this);
             })
         });
 
@@ -51,8 +51,8 @@
         function LoadProduct(prod) {
             var product = products[$(prod).children('.sampleInfo').children('.sampleId').html()];
             slideshow.image.attr('src', defaults.imgDir + product.Images[0]);
-            slideshow.controls.removeClass('active');
-            $(slideshow.controls[0]).addClass('active');
+            slideshow.controls.removeClass('active').addClass('inactive');
+            $(slideshow.controls[0]).addClass('active').removeClass('inactive');
 
             slideshow.samples.removeClass('selected');
             $(prod).addClass('selected');
@@ -62,7 +62,14 @@
             }
 
             BoldProductName(product.Name);
-            //UpdateSlideshow(product);
+            UpdateSlideshow(product);
+        }
+
+        function UpdateSlideshow(product) {
+            $('#productDescription').html(product.Description);
+            $('#productName').html(product.Name);
+            $('.options .option b').html(product.Name);
+            BoldProductName(product.Name);
         }
 
         function BindSlideshow() {
@@ -79,8 +86,10 @@
 
         function BoldProductName(name) {
             var description = $('#productDescription').html().replace(name, '<b>' + name + '</b>');
-            var map = $('#info .option.map').html().replace(name, '<b>' + name + '</b>');
-            var email = $('#info .option.email').html().replace(name, '<b>' + name + '</b>');
+
+            //first remove the <b> tag from the options
+            var map = $('#info .option.map').html().replace('<b>' + name + '</b>', name).replace(name, '<b>' + name + '</b>');
+            var email = $('#info .option.email').html().replace('<b>' + name + '</b>', name).replace(name, '<b>' + name + '</b>');
 
             $('#productDescription').html(description);
             $('#info .option.map').html(map);

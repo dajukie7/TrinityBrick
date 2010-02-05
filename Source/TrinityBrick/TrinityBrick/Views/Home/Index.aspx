@@ -14,7 +14,7 @@
         "top notch" <span class="brick">brick</span>, with <u>crafstmanship</u> that will
         stand the test of time and never fall short of expectations.
     </h2>
-    <a href="#" class="samples"><img alt="See Our Brick Samples" src="../../Content/Images/samples.png"/></a>
+    <a href="../Product" class="samples"><img alt="See Our Brick Samples" src="../../Content/Images/samples.png"/></a>
     <img alt="Trinity Brick" src="../../Content/Images/brick.png" class="brick" />
 </asp:Content>
 
@@ -60,7 +60,7 @@
                 <span class="phone">(405) 235-3900</span>
                 <span class="phoneTitle">Toll Free</span>
                 <span class="phone">1-800-572-5053</span>
-                <a class="phone" href="#">Questions or Comments?</a>
+                <a class="phone" href="../Contact?message=I want to know more about Trinity Brick.">Questions or Comments?</a>
             </div>            
         </div>
         <div class="clear"></div>

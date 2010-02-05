@@ -18,6 +18,7 @@ namespace TrinityBrick.Controllers
         public ProductController()
         {
             productService = new ProductService();
+            ViewData["ActiveLink"] = "Products";
         }
 
         public ActionResult Index()
@@ -60,7 +61,7 @@ namespace TrinityBrick.Controllers
                 else
                 {
                     product.Name = "Cambridge";
-                    product.Description = "A look of modern elegance; Cambridge has a deep maroon body with a soft splash of white accent.";
+                    product.Description = "Cambridge is a traditional deep red brick boasting a uniform color with a classic marbled texture.";
                     product.SampleImagePath = "brickSample.png";
                     product.Images = new List<string> { "Cambridge_1.jpg", "Cambridge_2.jpg", "Cambridge_3.jpg" };
                 }

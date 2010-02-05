@@ -60,6 +60,7 @@
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\PortfolioController.cs" />
     <Compile Include="Controllers\ProductController.cs" />
+    <Compile Include="Extensions\StringExtensions.cs" />
     <Compile Include="Models\ProductEntity.cs" />
     <Compile Include="ViewModels\ProductViewModel.cs" />
     <Compile Include="Default.aspx.cs">

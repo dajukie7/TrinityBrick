@@ -26,7 +26,7 @@
         </div>   
         <div class="section">
             <label for="comments">Comments:</label>
-            <textarea rows="7" cols="18" id="comments" name="comments"></textarea>
+            <textarea rows="7" cols="18" id="comments" name="comments"><%= ViewData["Message"] %></textarea>
         </div>  
         <div class="clear"></div>   
         <input type="submit" value="Submit"/>
@@ -34,6 +34,13 @@
     
     <div class="divider">
     
+    </div>
+    
+    <div class="contact">
+        <span class="phoneTitle">Local</span>
+        <span class="phone">(405) 235-3900</span>
+        <span class="phoneTitle">Toll Free</span>
+        <span class="phone">1-800-572-5053</span>
     </div>
     
     <div class="clear"></div>

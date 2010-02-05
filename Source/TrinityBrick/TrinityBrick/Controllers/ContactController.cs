@@ -2,10 +2,12 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net.Mail;
+using System.Text;
 using System.Web;
 using System.Web.Mail;
 using System.Web.Mvc;
 using System.Web.Mvc.Ajax;
+using TrinityBrick.Extensions;
 using MailMessage=System.Web.Mail.MailMessage;
 using MailPriority=System.Net.Mail.MailPriority;
 
@@ -17,20 +19,26 @@ namespace TrinityBrick.Controllers
         // GET: /Contact/
 
         [AcceptVerbs(HttpVerbs.Get)]
-        public ActionResult Index()
+        public ActionResult Index(string message)
         {
+            ViewData["ActiveLink"] = "Contact";
+            ViewData["Message"] = message;
             return View();
         }
 
         [AcceptVerbs(HttpVerbs.Post)]
-        public ActionResult Index(string name)
+        public ActionResult Index(string name, string email, string phone, string comments)
         {
 //            SendMail("smtp.gmail.com",587,"dajukie7@gmail.com","6403astbous3","Your name","dajukie7@gmail.com",
 //                "Stefan Receiver","dajukie7@gmail.com","Test","Hello there Steff!",true);
 
 //            SendMail();
 
-            sendMail("dajukie7@gmail.com", "dajukie7@gmail.com", "", "", "Test Email", "This was a test");
+            string message =
+                "{0} has just filled out the contact form.  Here is what they had to say: \n {1} \n You can get in contact with them here: \n {2},{3}"
+                    .FormatWith(name, comments, email, phone); 
+
+            sendMail("dajukie7@gmail.com", "dajukie7@gmail.com", "", "", "Trinity Brick Contact", message);
 
             return Success();
         }

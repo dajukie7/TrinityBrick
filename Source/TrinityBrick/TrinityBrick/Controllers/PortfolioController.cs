@@ -14,6 +14,7 @@ namespace TrinityBrick.Controllers
 
         public ActionResult Index()
         {
+            ViewData["ActiveLink"] = "Portfolio";
             return View();
         }
 

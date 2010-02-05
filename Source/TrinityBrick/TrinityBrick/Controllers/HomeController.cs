@@ -11,7 +11,6 @@ namespace TrinityBrick.Controllers
     {
         public ActionResult Index()
         {
-            ViewData["Message"] = "Welcome to ASP.NET MVC!";
             ViewData["ActiveLink"] = "Home";
 
             return View();

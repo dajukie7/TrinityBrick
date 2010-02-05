@@ -23,12 +23,12 @@
             <h1 id="productName"><%= Model.Products[0].Name %></h1>
             <p id="productDescription"><%= Model.Products[0].Description %></p>
             <div class="options">
-                <div class="option email">Would you like to know more about Cambridge?</div>
-                <div class="action email">Ask Us</div>
+                <div class="option email">Would you like to know more about <%= Model.Products[0].Name %>?</div>
+                <a href="../Contact?message=<%= Model.Products[0].Name %>" class="action email">Ask Us</a>
                 <div class="clear"></div>
             </div>
             <div class="options">
-                <div class="option map">Would you like to find houses near you with Cambridge?</div>
+                <div class="option map">Would you like to find houses near you with <%= Model.Products[0].Name %></div>
                 <div class="action map">Map It</div>
                 <div class="clear"></div>
             </div>

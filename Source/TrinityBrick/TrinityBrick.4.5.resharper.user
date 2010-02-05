@@ -12,48 +12,29 @@
   </NAntValidationSettings>
   <RecentFiles>
     <RecentFiles>
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Product/f:Slideshow.ascx" caret="106" fromTop="1" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Controllers/f:PortfolioController.cs" caret="311" fromTop="14" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Portfolio/f:Index.aspx" caret="1043" fromTop="21" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Shared/f:Site.Master" caret="1296" fromTop="9" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Controllers/f:ProductController.cs" caret="2036" fromTop="17" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Scripts/f:jquery.samples.js" caret="630" fromTop="3" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Product/f:Product.aspx" caret="1076" fromTop="7" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="8761" fromTop="15" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Contact/f:Index.aspx" caret="0" fromTop="0" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Controllers/f:ContactController.cs" caret="1010" fromTop="13" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Home/f:Index.aspx" caret="498" fromTop="11" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Scripts/f:jquery.samples.js" caret="3532" fromTop="28" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="8710" fromTop="21" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Shared/f:Site.Master" caret="1038" fromTop="10" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Product/f:Product.aspx" caret="861" fromTop="16" />
     </RecentFiles>
     <RecentEdits>
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Scripts/f:jquery.samples.js" caret="2622" fromTop="21" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Controllers/f:ProductController.cs" caret="2804" fromTop="8" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Controllers/f:ProductController.cs" caret="3391" fromTop="17" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Controllers/f:ProductController.cs" caret="1601" fromTop="9" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="3186" fromTop="18" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="3408" fromTop="20" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="3919" fromTop="22" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Controllers/f:ProductController.cs" caret="2036" fromTop="17" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Scripts/f:jquery.samples.js" caret="1636" fromTop="21" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Scripts/f:jquery.samples.js" caret="2274" fromTop="23" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Scripts/f:jquery.samples.js" caret="3307" fromTop="28" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Product/f:Product.aspx" caret="1338" fromTop="13" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Scripts/f:jquery.samples.js" caret="3103" fromTop="24" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Scripts/f:jquery.samples.js" caret="731" fromTop="5" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Scripts/f:jquery.samples.js" caret="588" fromTop="3" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Product/f:Product.aspx" caret="1579" fromTop="18" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="3772" fromTop="19" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="3723" fromTop="17" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="3549" fromTop="9" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Contact/f:Index.aspx" caret="1044" fromTop="25" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Contact/f:Index.aspx" caret="673" fromTop="14" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Contact/f:Index.aspx" caret="674" fromTop="14" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Contact/f:Index.aspx" caret="836" fromTop="18" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="8689" fromTop="12" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="8799" fromTop="15" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="8941" fromTop="24" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Contact/f:Index.aspx" caret="681" fromTop="8" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="9056" fromTop="11" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="8761" fromTop="15" />
-      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Contact/f:Index.aspx" caret="875" fromTop="13" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="569" fromTop="26" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="6685" fromTop="10" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="8250" fromTop="21" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="7954" fromTop="2" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Home/f:Index.aspx" caret="498" fromTop="11" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="1260" fromTop="18" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="4163" fromTop="35" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="2608" fromTop="14" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="2821" fromTop="20" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="3048" fromTop="26" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Scripts/f:jquery.samples.js" caret="2008" fromTop="9" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Scripts/f:jquery.samples.js" caret="2534" fromTop="10" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Scripts/f:jquery.samples.js" caret="3532" fromTop="28" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Content/d:Styles/f:Site.css" caret="8710" fromTop="21" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Product/f:Product.aspx" caret="1425" fromTop="25" />
+      <File id="D3A888C5-D29C-4CD8-BDAC-F1D469F54E05/d:Views/d:Product/f:Product.aspx" caret="1704" fromTop="30" />
     </RecentEdits>
   </RecentFiles>
   <UnitTestRunner>
@@ -70,45 +51,39 @@
       <Item value="public" priority="3" />
       <Item value="return" priority="3" />
       <Item value="Brick" priority="0" />
-      <Item value="productViewModel" priority="6" />
-      <Item value="new" priority="14" />
+      <Item value="productViewModel" priority="5" />
+      <Item value="new" priority="11" />
       <Item value="ProductViewModel" priority="3" />
       <Item value="productService" priority="1" />
       <Item value="ProductService" priority="4" />
       <Item value="List" priority="1" />
       <Item value="string" priority="3" />
-      <Item value="ProductEntity" priority="7" />
+      <Item value="ProductEntity" priority="6" />
       <Item value="product1" priority="5" />
       <Item value="ProductController" priority="0" />
-      <Item value="Model" priority="17" />
-      <Item value="foreach" priority="2" />
-      <Item value="product" priority="17" />
-      <Item value="for" priority="1" />
+      <Item value="Model" priority="13" />
+      <Item value="foreach" priority="1" />
+      <Item value="product" priority="5" />
+      <Item value="for" priority="0" />
       <Item value="int" priority="2" />
-      <Item value="i" priority="3" />
+      <Item value="i" priority="1" />
       <Item value="ActionResult" priority="1" />
       <Item value="IndexOutOfRangeException" priority="0" />
       <Item value="PartialView" priority="2" />
-      <Item value="JsonResult" priority="6" />
+      <Item value="JsonResult" priority="4" />
       <Item value="Json" priority="1" />
       <Item value="PartialViewResult" priority="0" />
       <Item value="in" priority="0" />
-      <Item value="p" priority="2" />
+      <Item value="p" priority="1" />
       <Item value="ViewContext" priority="0" />
       <Item value="ViewPage" priority="0" />
-      <Item value="var" priority="1" />
-      <Item value="id" priority="2" />
+      <Item value="var" priority="0" />
+      <Item value="id" priority="1" />
       <Item value="Id" priority="0" />
       <Item value="Description" priority="0" />
       <Item value="Name" priority="0" />
-      <Item value="List&lt;string&gt;" priority="2" />
+      <Item value="List&lt;string&gt;" priority="0" />
       <Item value="Images" priority="0" />
-      <Item value="if" priority="1" />
-      <Item value="else" priority="0" />
-      <Item value="Controller" priority="0" />
-      <Item value="Convert" priority="0" />
-      <Item value="image" priority="0" />
-      <Item value="b" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Web.Mvc.HtmlHelper">
       <Item value="ActiveLink" priority="0" />
@@ -122,20 +97,17 @@
       <Item value="Products" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
-      <Item value="Add" priority="2" />
+      <Item value="Add" priority="1" />
       <Item value="Where" priority="0" />
-      <Item value="ForEach" priority="0" />
-      <Item value="Select" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:TrinityBrick.ViewModels.ProductViewModel">
-      <Item value="Products" priority="13" />
+      <Item value="Products" priority="8" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:TrinityBrick.Models.ProductEntity">
-      <Item value="Name" priority="10" />
-      <Item value="SampleImagePath" priority="2" />
-      <Item value="Id" priority="4" />
-      <Item value="Images" priority="7" />
-      <Item value="Description" priority="3" />
+      <Item value="Name" priority="7" />
+      <Item value="SampleImagePath" priority="0" />
+      <Item value="Id" priority="2" />
+      <Item value="Images" priority="3" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Web.Mvc.HtmlHelper`1">
       <Item value="RenderPartial" priority="0" />

@@ -8,10 +8,10 @@
     <h1 class="tagLine">Brick That Lasts A Lifetime</h1>
     <hr class="rule" />
     <div class="clear"></div>
-    <h2>
+    <h2 class="motto">
         At <span class="name">Trinity Brick</span>, we guarantee to always offer the
         best <span class="brick">brick</span> that <span class="money">money</span> can buy. We strive to deliver
-        "top notch" <span class="brick">brick</span>, with <u>crafstmanship</u> that will
+        "top notch" <span class="brick">brick</span>, with <u>craftsmanship</u> that will
         stand the test of time and never fall short of expectations.
     </h2>
     <a href="../Product" class="samples"><img alt="See Our Brick Samples" src="../../Content/Images/samples.png"/></a>
@@ -36,15 +36,15 @@
         <div id="ourWork" class="grid_4">        
             <h2>Our Work</h2>   
             <i>click an image below to see some of our work</i>
-            <div class="thumb"></div>
-            <div class="thumb"></div>
-            <div class="thumb"></div>
-            <div class="thumb"></div>
-            <div class="thumb"></div>
-            <div class="thumb"></div>
-            <div class="thumb"></div>
-            <div class="thumb"></div>
-            <div class="thumb"></div>
+            <a class="thumb" href="../Portfolio"/></a>
+            <a class="thumb" href="../Portfolio"/></a>
+            <a class="thumb" href="../Portfolio"/></a>
+            <a class="thumb" href="../Portfolio"/></a>
+            <a class="thumb" href="../Portfolio"/></a>
+            <a class="thumb" href="../Portfolio"/></a>
+            <a class="thumb" href="../Portfolio"/></a>
+            <a class="thumb" href="../Portfolio"/></a>
+            <a class="thumb" href="../Portfolio"/></a>
         </div>
         <div id="contact" class="grid_4">
             <h2>Come See Us</h2>

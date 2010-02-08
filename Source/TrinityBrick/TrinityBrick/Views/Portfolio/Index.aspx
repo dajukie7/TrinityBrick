@@ -12,18 +12,22 @@
         <li class="client">
             <img alt="client name" src="../../Content/Images/Clients/example.jpg" />
             <h3>Client Name</h3>
+            <div class="shadow"></div>
         </li>
         <li class="client">
             <img alt="client name" src="../../Content/Images/Clients/example.jpg" />
             <h3>Client Name</h3>
+            <div class="shadow"></div>
         </li>
         <li class="client">
             <img alt="client name" src="../../Content/Images/Clients/example.jpg" />
             <h3>Client Name</h3>
+            <div class="shadow"></div>
         </li>
         <li class="client">
             <img alt="client name" src="../../Content/Images/Clients/example.jpg" />
             <h3>Client Name</h3>
+            <div class="shadow"></div>
         </li>
         <div class="clear"></div>
     </ul>

@@ -58,6 +58,7 @@
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\ContactController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\LinksController.cs" />
     <Compile Include="Controllers\PortfolioController.cs" />
     <Compile Include="Controllers\ProductController.cs" />
     <Compile Include="Extensions\StringExtensions.cs" />
@@ -82,6 +83,7 @@
     <Content Include="Scripts\jquery.samples.js" />
     <Content Include="Views\Contact\Index.aspx" />
     <Content Include="Views\Contact\Success.aspx" />
+    <Content Include="Views\Links\Index.aspx" />
     <Content Include="Views\Portfolio\Index.aspx" />
     <Content Include="Views\Product\Product.aspx" />
     <Content Include="Views\Product\Slideshow.ascx" />

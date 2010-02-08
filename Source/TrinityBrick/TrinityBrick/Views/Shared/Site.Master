@@ -24,6 +24,9 @@
 			    </li>
 			    <li class="work">
 				    <a href="../Portfolio" class="<%= Html.ActiveLink("Portfolio") %>">Work</a>
+			    </li>			    
+			    <li class="links">
+				    <a href="../Links" class="<%= Html.ActiveLink("Links") %>">Links</a>
 			    </li>
 			    <li class="contact">
 				    <a href="../Contact" class="<%= Html.ActiveLink("Contact") %>">Contact</a>
@@ -45,40 +48,14 @@
                 <asp:ContentPlaceHolder ID="_secondaryContent" runat="server" />
             </div>
         </div>
-        <div id="footer"></div>
+        <div id="footer">
+            <div id="footer_content">
+                <h5 class="design">
+                    This site was designed from <span class="quip">head to toe</span> by the nice folks @
+                    <a href="#">Snorkel Design</a>
+                </h5>
+            </div>
+        </div>
     </div>
 </body>
-
-
-
-<%--<body>
-    <div class="page">
-
-        <div id="header">
-            <div id="title">
-                <h1>My MVC Application</h1>
-            </div>
-              
-            <div id="logindisplay">
-                <% Html.RenderPartial("LogOnUserControl"); %>
-            </div> 
-            
-            <div id="menucontainer">
-            
-                <ul id="menu">              
-                    <li><%= Html.ActionLink("Home", "Index", "Home")%></li>
-                    <li><%= Html.ActionLink("About", "About", "Home")%></li>
-                </ul>
-            
-            </div>
-        </div>
-
-        <div id="main">
-            <asp:ContentPlaceHolder ID="MainContent" runat="server" />
-
-            <div id="footer">
-            </div>
-        </div>
-    </div>
-</body>--%>
 </html>

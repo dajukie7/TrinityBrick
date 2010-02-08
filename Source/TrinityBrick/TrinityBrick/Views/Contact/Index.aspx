@@ -11,6 +11,7 @@
     <div id="contact_options">
         <h3 class="by_email">Email</h3>
         <h3 class="by_phone">Phone</h3>
+        <div class="clear"></div>
     </div>
     
     <div class="clear"></div>
